@@ -24,9 +24,9 @@ body {
 }
 
 h1 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Lobster', cursive;
   font-size: 50px;
-  text-transform: uppercase;
+  text-transform: lowercase;
 }
 
 h4 {
