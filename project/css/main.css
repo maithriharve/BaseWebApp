@@ -24,7 +24,9 @@ p {
   background-image: url("https://images.unsplash.com/photo-1519038508735-8f3f146cfa5c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2468&q=80");
 
   /* Set a specific height */
-  height: 300px; 
+  height: 400px; 
+  width: 200px; 
+  float: right;
 
   /* Create the parallax scrolling effect */
   background-attachment: fixed;
